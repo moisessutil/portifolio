@@ -105,6 +105,7 @@ header span {
 
 .section-div img {
     max-width: 100%;
+    border-radius: 5px;
 }
 
 .digitando::after {
@@ -761,3 +762,9 @@ footer {
     cursor: pointer;
     background-color: #3e3d3d;
 }
+
+.projetos {
+    color: white;
+    font-weight: bold;
+}
+
